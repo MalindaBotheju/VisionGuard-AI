@@ -15,7 +15,6 @@
 
 ## 📸 Demo
 ![VisionGuard AI Interface](Screenshot.png)
-*(Note: Upload your screenshot and name it 'screenshot.png' for this to show up!)*
 
 ## 📦 Installation
 
