@@ -14,7 +14,7 @@
 * **Computer Vision:** OpenCV (`cv2`) for video capture and image processing.
 
 ## 📸 Demo
-![VisionGuard AI Interface](screenshot.png)
+![VisionGuard AI Interface](Screenshot.png)
 *(Note: Upload your screenshot and name it 'screenshot.png' for this to show up!)*
 
 ## 📦 Installation
